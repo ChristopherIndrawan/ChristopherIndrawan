@@ -420,6 +420,7 @@ footer {
   }
   .nav {
     justify-content: space-between;
+    overflow: hidden;
 
   }
   .nav-list {
