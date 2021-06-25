@@ -442,7 +442,7 @@ footer {
     margin-right: 0;
   }
   .nav-link {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
   }
   .active {
     position: relative;
@@ -457,13 +457,13 @@ footer {
     bottom: -3px;
   }
   ..sub-headline {
-    font-size: 10rem;
+    font-size: 8rem;
   }
   .first-letter {
-    font-size: 12.2rem;
+    font-size: 10.2rem;
   }
   .headline {
-    font-size: 4.7rem;
+    font-size: 2.7rem;
     letter-spacing: .8rem;
   }
   .line {
